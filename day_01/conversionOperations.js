@@ -1,3 +1,6 @@
+// ***********  Conversion  ********//
+
+
 let score = 10
 console.log (typeof score)
 
@@ -30,3 +33,34 @@ console.log(valueInNumberRevised )
 console.log(typeof NaN)
 
 // number
+
+// *************  Operations  ********//
+
+console.log(1+1) // Add
+console.log(1-1) // Sub
+console.log(1*1) // Multiply
+console.log(1/1) // Devide
+console.log(1**1) // Exponential 
+console.log(1%1) // remainder
+
+
+// FUN TIME
+
+console.log("1" + 2)
+console.log(1+ "2")
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+
+
+// FUN KKNOW
+
+console.log(true) // O/P true
+
+console.log(+true) // O/P 1
+
+
+// STUDY ABOUT THIS
+
+// Prefix operator 
+// postfix operator
+
